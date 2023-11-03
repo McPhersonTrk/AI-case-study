@@ -93,4 +93,6 @@ With these technologies,  Arista could expand with three new departmental branch
 
 [US News, Money: "Artificial Intellegence Stocks: the 10 best AI Companies"](https://money.usnews.com/investing/articles/artificial-intelligence-stocks-the-10-best-ai-companies)
 
-All code written and expressed by myself, Michael A McPherson.
+[Initial format by the original author of the challenge.](https://bootcampspot.instructure.com/courses/4945/assignments/64743?module_item_id=1117568) 
+
+All other code written and expressed by myself, Michael A McPherson.
