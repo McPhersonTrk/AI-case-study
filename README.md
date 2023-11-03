@@ -92,3 +92,5 @@ With these technologies,  Arista could expand with three new departmental branch
 [stockanalysis.com](https://stockanalysis.com/stocks/anet/)
 
 [US News, Money: "Artificial Intellegence Stocks: the 10 best AI Companies"](https://money.usnews.com/investing/articles/artificial-intelligence-stocks-the-10-best-ai-companies)
+
+All code written and expressed by myself, Michael A McPherson.
